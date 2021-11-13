@@ -1,0 +1,13 @@
+.gradient-custom {
+  
+    background: #0B486B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #F56217, #0B486B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #F56217, #0B486B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      }
+      .form-control {
+          margin-top:20px;
+             height: 45px;
+        box-shadow: none;
+        border-color: #e1e4e5;
+        font-size: 16px;
+    }

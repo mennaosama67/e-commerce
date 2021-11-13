@@ -1,0 +1,18 @@
+
+.post-content{
+    text-align: center;
+}
+.post-img{
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.post:hover img{
+ transform: scale(1.2) rotate(-10deg);
+ opacity: 0.8;
+ transition: all 0.4s ease;
+}
+.post:hover h4 , p{
+   color: coral;
+    transition: all 0.4s ease;
+   }
